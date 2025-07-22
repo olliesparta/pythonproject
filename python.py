@@ -15,3 +15,5 @@ custresult = custcurso.fetchall()
 
 for x in custresult:
  print(x)
+
+print("this has changed")
