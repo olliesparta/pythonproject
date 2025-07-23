@@ -17,3 +17,9 @@
   * As a user
   * I want to be able to filter my customers
   * So that I can see only customers that fit a certain criteria
+
+* User story #4
+
+  * As a user
+  * I want to be able to sort my customers by total spend
+  * So that I can see which customers have spent the most over time
