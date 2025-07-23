@@ -23,3 +23,9 @@
   * As a user
   * I want to be able to check if my customers have purchased items multiple times
   * So that I can reward loyalty in the form of discount
+
+* User story #5
+
+  * I want to be able to sort my customers by total spend
+  * So that I can see which customers have spent the most over time
+
