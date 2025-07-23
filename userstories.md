@@ -17,3 +17,9 @@
   * As a user
   * I want to be able to filter my customers
   * So that I can see only customers that fit a certain criteria
+
+* User story #4
+
+  * As a user
+  * I want to be able to check if my customers have purchased items multiple times
+  * So that I can reward loyalty in the form of discount
